@@ -8,7 +8,7 @@ for row in csv_f:
     data.append(row)
 f.close()
 
-print (data[1:])
+print (data[1:]7)
 
 def convert_row(row):
     return """<Students>
